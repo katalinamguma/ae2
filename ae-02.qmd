@@ -74,7 +74,7 @@ flint = read_csv("data/flint.csv")
 
 Look at the data, how many observations are there? How many variables?
 
-\[answer here\]
+\[There are 813 observations and 5 variables\]
 
 ### `distinct()` and `count()`
 
